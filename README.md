@@ -1,10 +1,13 @@
 # Bank Customer Churn Analysis
 
+# Customer Churn Analysis
+
 ## Problem Statement
-Customer churn is a critical issue for banks as acquiring new customers is more
-expensive than retaining existing ones.  
-This project aims to analyze customer data to identify key factors influencing
-customer churn and provide insights that can help improve retention strategies.
+Customer churn is a critical challenge in the banking industry, as retaining
+existing customers is more cost-effective than acquiring new ones.
+This project analyzes bank customer data to identify key factors influencing
+customer churn and derive insights that can help improve retention strategies.
+
 
 
 ## 📌 Project Overview
